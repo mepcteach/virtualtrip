@@ -1,0 +1,17 @@
+/* quienes-somos.css */
+
+.quienes-somos h1 {
+    font-size: 2.5rem;
+    font-weight: bold;
+    text-align: center;
+}
+
+.quienes-somos p {
+    font-size: 1.1rem;
+    line-height: 1.6;
+    color: #ddd;
+}
+
+.quienes-somos img {
+    border-radius: 20px;
+}
